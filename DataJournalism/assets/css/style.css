@@ -16,12 +16,12 @@ body {
 
 #scatter::before {
     position: absolute;
-    top: 50px;
-    left: 300px;
+    bottom: 110px;
+    left: 180px;
     z-index: -1;
     display: block;
-    width: 400px;
-    height: 300px;
+    width: 700px;
+    height: 360px;
     content: " ";
     background-image: url("../images/american_health.jpg");
     background-repeat: no-repeat;
