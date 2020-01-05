@@ -14,6 +14,22 @@ body {
   padding-bottom: 80px;
 }
 
+#scatter::before {
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    z-index: -1;
+    display: block;
+    width: 400px;
+    height: 300px;
+    content: " ";
+    background-image: url("../images/american_health.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    opacity: 0.3;
+  }
+
 #footer {
   position: absolute;
   bottom: 0;
