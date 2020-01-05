@@ -25,8 +25,8 @@ body {
     content: " ";
     background-image: url("../images/american_health.jpg");
     background-repeat: no-repeat;
-    background-position: 50% 0;
-    background-size: cover;
+    /* background-position: 50% 0;
+    background-size: cover; */
     opacity: 0.3;
   }
 
