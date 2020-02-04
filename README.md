@@ -2,7 +2,7 @@
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Deployment
-[US Health Statistics](https://brian-mchugh.github.io/D3-Challenge/DataJournalism/index.html)
+[US Health Statistics](https://brian-mchugh.github.io/D3/DataJournalism/index.html)
 
 ## Background
 
